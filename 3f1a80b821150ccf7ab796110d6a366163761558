@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "18c8e48a_1dbe2d8a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1037972
+      },
+      "writtenOn": "2024-04-15T20:58:26Z",
+      "side": 1,
+      "message": "LGTM",
+      "revId": "3f1a80b821150ccf7ab796110d6a366163761558",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5d769657_f78eb811",
+        "filename": "123.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1037972
+      },
+      "writtenOn": "2024-04-15T20:58:26Z",
+      "side": 1,
+      "message": "Yet another comment...",
+      "revId": "3f1a80b821150ccf7ab796110d6a366163761558",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0bc27c71_50cd4619",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1037972
+      },
+      "writtenOn": "2024-04-15T20:58:26Z",
+      "side": 1,
+      "message": "Just comment...",
+      "revId": "3f1a80b821150ccf7ab796110d6a366163761558",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
